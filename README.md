@@ -7,7 +7,7 @@ Libraries can be installed via pip
 Data that is scraped is then formatted and put into a csv file (for now). The previous data is checked to make sure that notifications are sent to me only when new items arrive. 
 
 Script doesn't follow proper python formatting standards and contains it's fair share of hardcoded values.
-  - Shoudlnt' be used as an example on good coding practices
+  - Shouldnt' be used as an example on good coding practices
   
 If running a Unix system you can create a shell script that calls your python script. Then call that shell script in a crontab entry using the following command `crontab -e`
 
