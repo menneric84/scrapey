@@ -13,4 +13,4 @@ If running a Unix system you can create a shell script that calls your python sc
 
 Example of a job that runs every 10 minutes */10 * * * * scrapey.sh
 
-Note: This is being considered a finish work for the time being, but will most likely be updated in the future for conding standards and a better how to doc
+Note: This is being considered a finished work for the time being, but will most likely be updated in the future for coding standards and a better how to doc
